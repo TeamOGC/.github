@@ -7,8 +7,8 @@ Quattro studenti di Ingegneria Informatica dell'Università di Palermo.
 ## Cosa abbiamo fatto
 Per il corso di Ingegneria del Software ci è stato richiesto di **progettare** e sviluppare un software per simulare un rapporto tra un'azienda farmaceutica ed una catena di farmacie.
 
-📄Link alla documentazione [mancante]  
-💻Repository del Codice [mancante]  
+[📄Link alla documentazione](https://teamogc.github.io)  
+[💻Repository del Codice](https://github.com/TeamOGC/PharmaGCode)  
 
 Di seguito la consegna ufficiale del progetto
 
