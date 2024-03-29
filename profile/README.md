@@ -1,7 +1,7 @@
 # TeamOGC
 ## Chi siamo
 
-Il Team è composto da: [@ExalFabu](https://github.com/ExalFabu), [@Dracarys11](https://github.com/Dracarys11), [@JustLooller](https://github.com/JustLooller) e [@vinz321](https://github.com/vinz321).  
+Il Team è composto da: [@ExalFabu](https://github.com/ExalFabu), [@Dracarys01](https://github.com/Dracarys01), [@JustLooller](https://github.com/JustLooller) e [@vinz321](https://github.com/vinz321).  
 Quattro studenti di Ingegneria Informatica dell'Università di Palermo.  
 
 ## Cosa abbiamo fatto
